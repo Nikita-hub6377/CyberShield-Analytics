@@ -1,0 +1,6 @@
+incident_id,country,year,attack_type,target_industry,financial_loss_million,affected_users,attack_source,vulnerability_type,defense_mechanism,resolution_time_hours,financial_loss_score,affected_users_score,resolution_time_score,risk_score,risk_level,similarity_score
+1628,France,2023,Man-in-the-Middle,Government,85.85,841548,Unknown,Zero-day,Firewall,68,85.85858585858585,84.18552771761692,94.44444444444444,87.07,High,0.9998226648758826
+2154,Brazil,2022,DDoS,Telecommunications,79.5,789067,Hacker Group,Unpatched Software,Firewall,63,79.50795079507951,78.93551146168352,87.5,80.93,High,0.9996748077183392
+1026,Brazil,2024,Phishing,Retail,88.47,842945,Hacker Group,Weak Passwords,Firewall,67,88.47884788478848,84.32527872673525,93.05555555555556,88.15,High,0.9993788249585313
+191,Australia,2017,Man-in-the-Middle,Telecommunications,79.72,799971,Insider,Zero-day,Firewall,63,79.72797279727973,80.0263096030051,87.5,81.37,High,0.99937282072953
+1507,Japan,2021,Malware,Healthcare,77.84,783976,Nation-state,Weak Passwords,Firewall,62,77.84778477847786,78.42622557233389,86.11111111111111,79.67,High,0.999323583128096

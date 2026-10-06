@@ -1,0 +1,6 @@
+selected_incident_id,similar_incident_id,selected_financial_loss_million,historical_financial_loss_million,selected_affected_users,historical_affected_users,selected_resolution_time_hours,historical_resolution_time_hours,selected_risk_score,historical_risk_score,similarity_score
+1,1628,80.53,85.85,773169,841548,63,68,80.97,87.07,0.9998226648758826
+1,2154,80.53,79.5,773169,789067,63,63,80.97,80.93,0.9996748077183392
+1,1026,80.53,88.47,773169,842945,63,67,80.97,88.15,0.9993788249585313
+1,191,80.53,79.72,773169,799971,63,63,80.97,81.37,0.99937282072953
+1,1507,80.53,77.84,773169,783976,63,62,80.97,79.67,0.999323583128096

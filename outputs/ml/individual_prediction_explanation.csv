@@ -1,0 +1,4 @@
+feature,feature_value,shap_value,impact
+affected_users_score,77.34513097280508,0.014751095806915878,Higher Influence
+resolution_time_score,87.5,0.012476058634995313,Higher Influence
+financial_loss_score,80.53805380538054,0.005884555586918426,Higher Influence

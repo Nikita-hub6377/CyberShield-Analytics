@@ -1,0 +1,601 @@
+incident_id,country,year,attack_type,target_industry,financial_loss_million,affected_users,risk_score,risk_level,actual_risk_level,predicted_risk_level,priority,model_confidence,confidence_level
+449,Brazil,2022,Phishing,Banking,98.06,884502,90.86,High,High,High,Critical,82.0,High
+2089,India,2017,Phishing,IT,93.62,899005,90.74,High,High,High,Critical,76.0,Medium
+1187,Russia,2023,DDoS,Telecommunications,96.61,956064,89.5,High,High,High,Critical,89.0,High
+274,Germany,2017,Phishing,Retail,93.6,908249,88.78,High,High,High,Critical,96.0,High
+144,Germany,2022,DDoS,IT,78.18,987652,88.73,High,High,High,Critical,88.0,High
+2255,India,2023,Man-in-the-Middle,IT,90.85,985267,88.33,High,High,High,Critical,79.0,Medium
+1667,China,2017,DDoS,Healthcare,96.49,644339,87.31,High,High,High,Critical,75.0,Medium
+2921,Germany,2023,Ransomware,Retail,89.71,919427,86.62,High,High,High,Critical,94.0,High
+2910,Germany,2017,DDoS,Education,98.61,992029,86.3,High,High,High,Critical,91.0,High
+2641,Russia,2018,Phishing,Education,94.6,596801,84.66,High,High,High,Critical,91.0,High
+1672,China,2023,DDoS,Healthcare,97.15,734819,84.52,High,High,High,Critical,93.0,High
+2327,Germany,2024,Man-in-the-Middle,IT,93.13,952299,84.32,High,High,High,Critical,77.0,Medium
+325,UK,2021,SQL Injection,IT,77.82,935572,83.94,High,High,High,Critical,94.0,High
+421,China,2018,Malware,Education,95.42,917848,83.59,High,High,High,Critical,91.0,High
+980,Russia,2022,Man-in-the-Middle,IT,84.1,919858,82.72,High,High,High,Critical,65.0,Medium
+2690,France,2024,Ransomware,Banking,97.53,759522,82.4,High,High,High,Critical,94.0,High
+2979,India,2023,Malware,Healthcare,70.36,992014,82.18,High,High,High,Critical,82.0,High
+1977,Germany,2016,SQL Injection,IT,76.36,807745,82.15,High,High,High,Critical,90.0,High
+2183,Germany,2019,SQL Injection,Banking,77.65,989592,82.14,High,High,High,Critical,94.0,High
+2490,Brazil,2022,Man-in-the-Middle,Education,91.69,581034,81.9,High,High,High,Critical,63.0,Medium
+735,India,2022,SQL Injection,Healthcare,77.3,826937,81.25,High,High,High,Critical,79.0,Medium
+2168,China,2023,DDoS,Healthcare,92.58,974261,81.09,High,High,High,Critical,83.0,High
+5,Germany,2018,Man-in-the-Middle,IT,74.41,810682,80.43,High,High,High,Critical,68.0,Medium
+2687,USA,2024,Malware,Education,75.51,822636,79.95,High,High,High,High,92.0,High
+471,Australia,2020,DDoS,Healthcare,91.45,471113,79.59,High,High,High,High,92.0,High
+1784,UK,2016,SQL Injection,Telecommunications,98.39,836521,79.58,High,High,High,High,88.0,High
+2422,Japan,2015,Phishing,Government,98.29,850600,79.4,High,High,High,High,91.0,High
+1635,Australia,2016,Ransomware,Healthcare,82.99,799581,79.38,High,High,High,High,93.0,High
+806,USA,2018,SQL Injection,Government,99.49,755576,78.81,High,High,High,High,92.0,High
+460,USA,2018,Man-in-the-Middle,Banking,85.29,685291,77.94,High,High,High,High,98.0,High
+882,Russia,2017,Phishing,Banking,94.15,963192,77.93,High,High,High,High,94.0,High
+2023,Japan,2021,Phishing,Banking,94.32,755165,77.61,High,High,High,High,91.0,High
+249,Brazil,2015,Ransomware,Healthcare,61.91,961557,77.59,High,High,High,High,91.0,High
+2219,Germany,2023,DDoS,IT,93.72,828721,77.57,High,High,High,High,91.0,High
+1057,China,2018,Malware,Education,97.2,499651,77.49,High,High,High,High,82.0,High
+117,UK,2024,Phishing,Government,81.26,993903,77.41,High,High,High,High,86.0,High
+2677,China,2022,DDoS,IT,88.61,777010,77.07,High,High,High,High,92.0,High
+936,Brazil,2022,Man-in-the-Middle,Education,77.98,899279,76.82,High,High,High,High,77.0,Medium
+208,UK,2016,Phishing,Healthcare,71.19,925040,76.69,High,High,High,High,77.0,Medium
+642,USA,2015,DDoS,IT,94.14,854005,76.59,High,High,High,High,51.0,Low
+2505,Germany,2016,Phishing,Government,93.61,395731,76.46,High,High,High,High,80.0,High
+745,Brazil,2015,Ransomware,Retail,91.03,879260,76.35,High,High,High,High,82.0,High
+2762,Russia,2021,Ransomware,Healthcare,85.65,920121,76.28,High,High,High,High,84.0,High
+930,India,2017,DDoS,Retail,82.17,593329,76.12,High,High,High,High,95.0,High
+2190,Brazil,2024,DDoS,Government,88.79,482307,76.1,High,High,High,High,91.0,High
+2166,Brazil,2018,Malware,Retail,83.42,538552,75.93,High,High,High,High,86.0,High
+1043,Japan,2018,DDoS,Telecommunications,99.04,389405,75.93,High,High,High,High,75.0,Medium
+1599,China,2021,SQL Injection,IT,97.06,329378,75.36,High,High,High,High,75.0,Medium
+222,France,2024,Ransomware,Banking,78.82,759804,75.27,High,High,High,High,74.0,Medium
+235,Japan,2022,SQL Injection,Telecommunications,67.62,822256,75.16,High,High,High,High,97.0,High
+1684,Japan,2021,Malware,Retail,90.8,841766,75.11,High,High,High,High,78.0,Medium
+1859,USA,2018,SQL Injection,Healthcare,73.16,849755,74.86,High,High,High,High,94.0,High
+2259,Australia,2020,Phishing,Education,85.79,905386,74.79,High,High,High,High,62.0,Medium
+1933,Japan,2024,Ransomware,Retail,88.36,989106,74.7,High,High,High,High,99.0,High
+591,UK,2020,DDoS,Retail,86.0,809209,74.51,High,High,High,High,93.0,High
+1001,USA,2016,Ransomware,Healthcare,99.19,745103,74.18,High,High,High,High,83.0,High
+2442,Brazil,2018,Malware,Telecommunications,96.22,445546,73.99,High,High,High,High,95.0,High
+2987,Brazil,2015,Malware,Healthcare,88.08,905770,73.73,High,High,High,High,96.0,High
+2598,Russia,2017,Man-in-the-Middle,Government,80.95,827534,73.37,High,High,High,High,82.0,High
+2949,China,2021,Phishing,Telecommunications,76.26,756305,73.33,High,High,High,High,86.0,High
+2543,UK,2016,Phishing,Retail,85.89,714670,73.29,High,High,High,High,78.0,Medium
+2368,India,2016,Ransomware,Banking,93.74,339815,73.18,High,High,High,High,80.0,High
+2319,India,2021,Ransomware,Education,86.73,534013,73.01,High,High,High,High,65.0,Medium
+2285,UK,2018,SQL Injection,Telecommunications,80.96,583514,73.0,High,High,High,High,75.0,Medium
+1869,Australia,2018,SQL Injection,Banking,71.01,840106,72.94,High,High,High,High,49.0,Low
+56,India,2020,DDoS,Banking,86.27,898655,72.89,High,High,High,High,91.0,High
+2000,Australia,2023,Ransomware,Government,96.44,472878,72.69,High,High,High,High,79.0,Medium
+2562,France,2017,DDoS,Retail,67.36,856228,72.44,High,High,High,High,76.0,Medium
+194,Australia,2022,Man-in-the-Middle,Healthcare,81.31,707365,72.44,High,High,High,High,81.0,High
+979,USA,2021,Man-in-the-Middle,Telecommunications,83.88,980367,72.2,High,High,High,High,90.0,High
+1419,Japan,2021,Malware,Education,76.8,607544,72.19,High,High,High,High,55.0,Low
+1005,UK,2015,Man-in-the-Middle,Government,69.96,675955,71.94,High,High,High,High,74.0,Medium
+126,Russia,2024,Malware,Banking,93.33,517610,71.93,High,High,High,High,87.0,High
+91,Australia,2017,SQL Injection,Healthcare,68.91,634048,71.82,High,High,High,High,87.0,High
+1519,France,2017,SQL Injection,Healthcare,96.08,592364,71.66,High,High,High,High,64.0,Medium
+2696,Brazil,2022,Man-in-the-Middle,Retail,89.11,749386,71.49,High,High,High,High,83.0,High
+406,Brazil,2022,Phishing,Banking,75.01,771434,71.22,High,High,High,High,96.0,High
+1515,China,2015,DDoS,Government,97.15,399851,71.14,High,High,High,High,73.0,Medium
+2391,UK,2023,DDoS,Telecommunications,81.91,397687,70.95,High,High,High,High,88.0,High
+1501,Australia,2016,DDoS,Healthcare,98.25,412019,70.94,High,High,Medium,High,93.0,High
+2635,China,2015,Ransomware,IT,86.82,748040,70.86,High,High,High,High,85.0,High
+924,UK,2015,Ransomware,Banking,79.3,893277,70.63,High,High,High,High,94.0,High
+764,Germany,2023,SQL Injection,Banking,94.48,426499,70.32,High,High,High,High,67.0,Medium
+2594,India,2023,DDoS,Retail,73.85,504861,70.14,High,High,High,High,74.0,Medium
+450,China,2015,Ransomware,IT,57.27,762001,70.12,High,High,High,High,75.0,Medium
+475,China,2024,SQL Injection,Government,84.23,568377,69.73,High,High,High,High,76.0,Medium
+1137,Japan,2023,Man-in-the-Middle,Government,81.57,738014,69.6,High,High,High,High,90.0,High
+583,China,2016,Malware,Healthcare,85.15,454802,69.56,High,High,High,High,87.0,High
+1185,Russia,2023,DDoS,IT,86.81,717258,69.38,High,High,High,High,56.0,Low
+1241,Brazil,2021,Ransomware,Healthcare,78.08,989151,69.28,High,High,High,High,52.0,Low
+207,Germany,2018,Phishing,Telecommunications,84.9,800031,69.24,High,High,High,High,89.0,High
+173,China,2024,Ransomware,Telecommunications,70.47,549337,69.22,High,High,High,High,83.0,High
+2047,Brazil,2017,Phishing,Government,87.27,767721,69.18,High,High,High,High,65.0,Medium
+54,France,2018,Phishing,Healthcare,75.11,581303,69.17,High,High,High,High,90.0,High
+2381,China,2017,Man-in-the-Middle,Banking,62.39,855974,69.11,High,High,Medium,High,88.0,High
+1311,Brazil,2022,Phishing,IT,92.58,176386,69.09,High,High,High,High,94.0,High
+169,Russia,2016,SQL Injection,Telecommunications,95.93,595950,68.91,High,High,High,High,88.0,High
+1817,Brazil,2017,Man-in-the-Middle,Healthcare,96.36,596078,68.85,High,High,High,High,75.0,Medium
+94,France,2023,Man-in-the-Middle,Retail,88.65,427067,68.81,High,High,High,High,92.0,High
+2314,France,2023,Malware,Healthcare,85.28,762282,68.58,High,High,High,High,61.0,Medium
+2229,Japan,2020,DDoS,Education,99.83,10859,68.58,High,High,High,High,90.0,High
+1390,China,2015,Ransomware,IT,60.43,962452,68.55,High,High,Medium,High,78.0,Medium
+1335,Russia,2024,Man-in-the-Middle,Banking,93.13,414192,68.44,High,High,High,High,93.0,High
+1816,Australia,2022,Phishing,Healthcare,72.53,496317,68.39,High,High,High,High,84.0,High
+1644,France,2015,Malware,Government,71.91,789673,68.27,High,High,High,High,81.0,High
+613,China,2015,SQL Injection,Telecommunications,75.91,605020,68.06,High,High,High,High,69.0,Medium
+1191,Australia,2022,Malware,IT,41.67,945897,67.56,High,High,Medium,High,69.0,Medium
+1882,UK,2021,Malware,Telecommunications,82.28,370146,67.53,High,High,High,High,68.0,Medium
+2258,France,2021,Phishing,Education,78.99,542754,67.45,High,High,High,High,99.0,High
+2748,France,2015,Phishing,Retail,84.86,190100,67.31,High,High,Medium,High,90.0,High
+2676,USA,2024,Man-in-the-Middle,Government,96.13,482492,67.27,High,High,Medium,High,70.0,Medium
+11,China,2019,Phishing,Telecommunications,88.67,493675,67.21,High,High,Medium,High,95.0,High
+1060,Japan,2015,Phishing,Banking,87.5,429920,66.93,High,High,High,Medium,82.0,High
+540,Japan,2024,Man-in-the-Middle,Telecommunications,98.3,458630,66.81,High,High,Medium,Medium,85.0,High
+2585,Russia,2022,DDoS,Retail,93.71,474552,66.66,High,High,Medium,Medium,51.0,Low
+1890,Germany,2018,Phishing,Banking,88.73,436597,66.64,High,High,High,Medium,72.0,Medium
+2185,Germany,2016,Malware,Healthcare,67.85,552427,66.62,High,High,Medium,Medium,87.0,High
+392,UK,2024,DDoS,Retail,88.54,518181,66.49,High,High,High,Medium,89.0,High
+1757,France,2021,Malware,Telecommunications,68.64,894858,66.46,High,High,Medium,Medium,77.0,Medium
+1913,France,2023,Man-in-the-Middle,Telecommunications,99.71,357542,66.42,High,High,Medium,Medium,85.0,High
+1344,USA,2024,SQL Injection,Retail,86.29,457411,66.32,High,High,High,Medium,80.0,High
+1304,China,2015,Ransomware,Government,57.59,887037,66.25,High,High,Medium,Medium,61.0,Medium
+1889,UK,2021,Malware,Banking,73.02,731722,66.25,High,High,Medium,Medium,93.0,High
+1242,Germany,2016,SQL Injection,Government,63.89,946613,66.19,High,High,Medium,Medium,90.0,High
+2187,India,2016,Man-in-the-Middle,Telecommunications,42.88,934333,66.15,High,High,Medium,Medium,83.0,High
+2296,China,2019,Ransomware,IT,72.29,666683,65.6,Medium,Medium,Medium,Medium,58.0,Low
+457,UK,2021,Ransomware,Banking,79.33,555527,65.51,Medium,Medium,High,Medium,69.0,Medium
+2441,USA,2020,DDoS,Banking,60.2,998937,65.36,Medium,Medium,Medium,Medium,80.0,High
+1668,Brazil,2024,DDoS,Healthcare,76.39,782425,65.29,Medium,Medium,High,Medium,72.0,Medium
+2124,India,2020,Ransomware,Healthcare,79.48,461093,65.25,Medium,Medium,Medium,Medium,75.0,Medium
+1625,Australia,2016,Phishing,Government,72.34,847817,65.23,Medium,Medium,Medium,Medium,95.0,High
+773,UK,2024,SQL Injection,Telecommunications,54.1,715395,65.19,Medium,Medium,Medium,Medium,59.0,Low
+2772,India,2022,DDoS,Banking,92.23,626017,65.18,Medium,Medium,High,Medium,78.0,Medium
+530,Russia,2022,Malware,Telecommunications,84.57,262201,65.16,Medium,Medium,Medium,Medium,90.0,High
+2129,Japan,2022,DDoS,Telecommunications,94.79,534069,65.09,Medium,Medium,Medium,Medium,89.0,High
+2709,India,2016,Man-in-the-Middle,IT,70.24,374767,64.98,Medium,Medium,Medium,Medium,90.0,High
+1532,UK,2020,Man-in-the-Middle,Government,54.29,930468,64.79,Medium,Medium,Medium,Medium,90.0,High
+6,Germany,2017,Man-in-the-Middle,Retail,98.24,285201,64.63,Medium,Medium,Medium,Medium,55.0,Low
+2915,France,2021,Ransomware,IT,58.86,935319,64.45,Medium,Medium,Medium,Medium,97.0,High
+695,China,2024,Ransomware,Banking,72.18,277175,64.41,Medium,Medium,Medium,Medium,91.0,High
+21,Brazil,2015,Ransomware,Retail,49.55,920172,64.34,Medium,Medium,Medium,Medium,75.0,Medium
+2035,Japan,2017,Phishing,IT,73.85,402903,64.3,Medium,Medium,High,Medium,84.0,High
+1687,UK,2021,Phishing,IT,89.59,361270,64.25,Medium,Medium,Medium,Medium,86.0,High
+29,France,2020,Malware,IT,87.32,599757,64.16,Medium,Medium,High,Medium,91.0,High
+1758,UK,2018,Man-in-the-Middle,IT,75.81,574089,64.03,Medium,Medium,Medium,Medium,81.0,High
+2460,India,2024,Man-in-the-Middle,Telecommunications,93.46,409281,64.02,Medium,Medium,Medium,Medium,96.0,High
+253,China,2022,Ransomware,Telecommunications,64.92,591819,63.84,Medium,Medium,Medium,Medium,83.0,High
+2119,China,2017,Malware,IT,86.98,510454,63.81,Medium,Medium,Medium,Medium,84.0,High
+529,Japan,2020,Ransomware,IT,61.69,704157,63.65,Medium,Medium,Medium,Medium,55.0,Low
+1522,Japan,2022,Ransomware,Government,86.84,122651,63.49,Medium,Medium,Medium,Medium,97.0,High
+842,France,2019,Man-in-the-Middle,Telecommunications,75.99,561713,63.47,Medium,Medium,Medium,Medium,55.0,Low
+1089,UK,2015,DDoS,Telecommunications,85.23,193852,63.44,Medium,Medium,Medium,Medium,96.0,High
+508,USA,2016,Phishing,IT,92.53,219826,63.42,Medium,Medium,Medium,Medium,95.0,High
+2477,Japan,2019,Man-in-the-Middle,Government,61.01,549197,63.38,Medium,Medium,Medium,Medium,90.0,High
+2617,Japan,2018,Man-in-the-Middle,Government,78.16,512258,63.35,Medium,Medium,High,Medium,91.0,High
+2431,Brazil,2017,DDoS,IT,72.48,860625,63.18,Medium,Medium,Medium,Medium,94.0,High
+1239,Brazil,2021,DDoS,Retail,75.1,740795,63.12,Medium,Medium,Medium,Medium,74.0,Medium
+2430,Australia,2022,Malware,Retail,47.33,839881,63.04,Medium,Medium,Medium,Medium,78.0,Medium
+1948,Australia,2019,Man-in-the-Middle,IT,87.89,551100,62.99,Medium,Medium,Medium,Medium,71.0,Medium
+1340,Germany,2023,Malware,Retail,62.43,918454,62.95,Medium,Medium,Medium,Medium,94.0,High
+2461,Japan,2023,Phishing,Banking,82.36,612815,62.91,Medium,Medium,Medium,Medium,91.0,High
+728,China,2022,Malware,Education,96.72,194617,62.82,Medium,Medium,Medium,Medium,80.0,High
+2855,Australia,2021,Ransomware,Retail,61.46,860546,62.67,Medium,Medium,Medium,Medium,95.0,High
+1052,Brazil,2021,Phishing,Telecommunications,83.79,90156,62.66,Medium,Medium,Medium,Medium,66.0,Medium
+2350,UK,2021,DDoS,IT,70.49,530341,62.28,Medium,Medium,Medium,Medium,92.0,High
+791,Brazil,2018,DDoS,Telecommunications,69.83,587034,62.26,Medium,Medium,Medium,Medium,97.0,High
+1591,Australia,2018,Ransomware,Banking,50.64,874035,62.11,Medium,Medium,Medium,Medium,51.0,Low
+1531,Australia,2019,Malware,Telecommunications,93.71,217863,62.01,Medium,Medium,Medium,Medium,76.0,Medium
+186,Russia,2015,Malware,IT,95.33,282598,61.98,Medium,Medium,Medium,Medium,71.0,Medium
+956,Brazil,2022,Malware,Retail,78.03,660707,61.9,Medium,Medium,Medium,Medium,58.0,Low
+1031,China,2019,Malware,Telecommunications,62.67,520232,61.67,Medium,Medium,Medium,Medium,90.0,High
+1222,USA,2023,SQL Injection,Education,77.96,164892,61.43,Medium,Medium,Medium,Medium,90.0,High
+1343,Russia,2018,Phishing,IT,65.88,503520,61.39,Medium,Medium,Medium,Medium,75.0,Medium
+886,USA,2018,Ransomware,Healthcare,51.71,858128,61.33,Medium,Medium,Medium,Medium,85.0,High
+2169,Brazil,2019,SQL Injection,Healthcare,91.03,86583,61.17,Medium,Medium,Medium,Medium,81.0,High
+2941,Russia,2017,Malware,IT,68.12,627616,60.95,Medium,Medium,Medium,Medium,95.0,High
+2485,USA,2023,DDoS,Education,90.38,311596,60.93,Medium,Medium,Medium,Medium,73.0,Medium
+2026,USA,2017,DDoS,Retail,70.37,513625,60.88,Medium,Medium,Medium,Medium,83.0,High
+1310,Japan,2024,DDoS,Government,84.36,234154,60.88,Medium,Medium,Medium,Medium,96.0,High
+1173,Germany,2020,DDoS,Banking,64.64,735855,60.8,Medium,Medium,Medium,Medium,63.0,Medium
+2142,Russia,2021,Phishing,Government,45.97,699825,60.66,Medium,Medium,Medium,Medium,81.0,High
+2246,Japan,2016,SQL Injection,Telecommunications,37.17,728731,60.46,Medium,Medium,Medium,Medium,85.0,High
+429,China,2016,Phishing,IT,27.46,973388,60.44,Medium,Medium,Medium,Medium,85.0,High
+2651,Germany,2018,SQL Injection,Healthcare,78.11,451780,60.4,Medium,Medium,Medium,Medium,90.0,High
+814,Australia,2016,Malware,Education,88.87,235062,60.38,Medium,Medium,Medium,Medium,57.0,Low
+1127,Japan,2018,Phishing,IT,72.01,401960,60.29,Medium,Medium,Medium,Medium,84.0,High
+2303,Brazil,2021,SQL Injection,Banking,50.61,772512,60.16,Medium,Medium,Medium,Medium,85.0,High
+304,UK,2021,DDoS,Banking,97.03,100486,60.15,Medium,Medium,Medium,Medium,84.0,High
+2250,Brazil,2019,Phishing,Government,70.6,817268,60.11,Medium,Medium,Medium,Medium,92.0,High
+2862,Russia,2015,DDoS,Government,97.4,23096,59.95,Medium,Medium,Medium,Medium,87.0,High
+1705,Germany,2018,DDoS,Retail,80.85,148209,59.88,Medium,Medium,Medium,Medium,91.0,High
+1781,China,2017,Phishing,Healthcare,70.4,651809,59.49,Medium,Medium,Medium,Medium,88.0,High
+1196,Japan,2019,Man-in-the-Middle,Telecommunications,89.5,163110,59.37,Medium,Medium,Medium,Medium,76.0,Medium
+1914,UK,2021,Malware,Telecommunications,77.18,347426,59.02,Medium,Medium,Medium,Medium,87.0,High
+2813,Germany,2019,Phishing,Government,49.71,647613,59.02,Medium,Medium,Medium,Medium,63.0,Medium
+1190,USA,2015,DDoS,IT,45.91,772018,58.9,Medium,Medium,Medium,Medium,58.0,Low
+2179,Australia,2022,Malware,Government,54.17,892175,58.86,Medium,Medium,Medium,Medium,69.0,Medium
+1474,UK,2024,Phishing,IT,71.2,228010,58.84,Medium,Medium,Medium,Medium,81.0,High
+1197,Russia,2019,Ransomware,IT,60.24,354784,58.83,Medium,Medium,Medium,Medium,88.0,High
+2801,Russia,2015,Malware,Education,24.47,977607,58.8,Medium,Medium,Medium,Medium,89.0,High
+2114,France,2018,Malware,Retail,80.37,339119,58.42,Medium,Medium,Medium,Medium,94.0,High
+2079,USA,2022,Phishing,IT,48.71,520480,58.31,Medium,Medium,Medium,Medium,97.0,High
+1906,France,2019,SQL Injection,Banking,98.04,278315,58.21,Medium,Medium,Medium,Medium,88.0,High
+2786,Australia,2023,Malware,Banking,25.7,993215,58.21,Medium,Medium,Medium,Medium,93.0,High
+749,Russia,2024,SQL Injection,Government,63.45,492909,58.19,Medium,Medium,Medium,Medium,62.0,Medium
+2249,Brazil,2017,DDoS,Education,29.76,913276,58.12,Medium,Medium,Medium,Medium,79.0,Medium
+761,India,2018,Phishing,Banking,96.59,206552,58.11,Medium,Medium,Medium,Medium,64.0,Medium
+2919,Brazil,2020,DDoS,Healthcare,53.42,545588,58.09,Medium,Medium,Medium,Medium,90.0,High
+2638,Russia,2021,SQL Injection,Retail,82.88,479586,58.06,Medium,Medium,Medium,Medium,50.0,Low
+1091,France,2021,Phishing,IT,76.02,573328,58.0,Medium,Medium,Medium,Medium,90.0,High
+2504,UK,2015,Phishing,Banking,51.38,630931,57.96,Medium,Medium,Medium,Medium,96.0,High
+92,UK,2023,DDoS,Banking,81.26,547495,57.9,Medium,Medium,Medium,Medium,91.0,High
+1926,Germany,2021,Phishing,Telecommunications,55.14,463525,57.87,Medium,Medium,Medium,Medium,51.0,Low
+2587,USA,2020,Phishing,Education,60.57,275819,57.73,Medium,Medium,Medium,Medium,96.0,High
+2470,China,2023,SQL Injection,Telecommunications,66.92,336320,57.72,Medium,Medium,Medium,Medium,94.0,High
+2469,India,2020,Man-in-the-Middle,Government,50.19,659835,57.68,Medium,Medium,Medium,Medium,82.0,High
+2267,USA,2023,DDoS,Banking,53.59,750875,57.67,Medium,Medium,Medium,Medium,79.0,Medium
+2538,Australia,2022,Malware,Retail,32.26,824433,57.54,Medium,Medium,Medium,Medium,98.0,High
+1353,France,2020,Malware,Healthcare,76.42,50468,57.51,Medium,Medium,Medium,Medium,75.0,Medium
+350,Russia,2016,Ransomware,Government,59.66,854961,57.44,Medium,Medium,Medium,Medium,92.0,High
+351,Brazil,2019,SQL Injection,Education,56.33,595157,57.42,Medium,Medium,Medium,Medium,91.0,High
+2634,USA,2015,Ransomware,Retail,74.68,498089,57.29,Medium,Medium,Medium,Medium,91.0,High
+605,France,2019,SQL Injection,Government,85.13,304257,57.26,Medium,Medium,Medium,Medium,81.0,High
+2646,UK,2023,Ransomware,Banking,49.89,638668,57.17,Medium,Medium,Medium,Medium,80.0,High
+1954,UK,2022,DDoS,Retail,45.73,554585,57.01,Medium,Medium,Medium,Medium,95.0,High
+66,UK,2016,DDoS,Banking,87.68,336376,56.99,Medium,Medium,Medium,Medium,91.0,High
+2750,UK,2024,Malware,Retail,33.24,851177,56.89,Medium,Medium,Medium,Medium,67.0,Medium
+1899,Brazil,2024,Phishing,Telecommunications,81.54,499671,56.88,Medium,Medium,Medium,Medium,94.0,High
+2136,Australia,2021,SQL Injection,Banking,92.66,49085,56.7,Medium,Medium,Medium,Medium,93.0,High
+324,France,2022,SQL Injection,Healthcare,27.06,999545,56.58,Medium,Medium,Medium,Medium,83.0,High
+229,France,2020,Phishing,Government,94.44,209658,56.57,Medium,Medium,Medium,Medium,85.0,High
+2906,USA,2016,Man-in-the-Middle,Banking,57.26,852868,56.45,Medium,Medium,Medium,Medium,67.0,Medium
+2039,Japan,2023,SQL Injection,Government,69.61,391049,56.27,Medium,Medium,Medium,Medium,53.0,Low
+729,Japan,2022,Man-in-the-Middle,Retail,44.34,516125,56.27,Medium,Medium,Medium,Medium,84.0,High
+41,Russia,2015,DDoS,Telecommunications,96.39,238356,56.19,Medium,Medium,Medium,Medium,72.0,Medium
+119,Germany,2022,Man-in-the-Middle,Healthcare,56.27,699129,56.06,Medium,Medium,Medium,Medium,86.0,High
+333,Japan,2016,SQL Injection,Telecommunications,63.77,304618,56.03,Medium,Medium,Medium,Medium,94.0,High
+1632,Germany,2020,Man-in-the-Middle,IT,84.55,392247,56.0,Medium,Medium,Medium,Medium,87.0,High
+1620,UK,2020,Phishing,Healthcare,39.47,551014,56.0,Medium,Medium,Medium,Medium,86.0,High
+1161,Russia,2016,Malware,Government,66.19,91194,55.84,Medium,Medium,Medium,Medium,75.0,Medium
+673,Russia,2017,Ransomware,Telecommunications,65.18,329972,55.83,Medium,Medium,Medium,Medium,94.0,High
+1854,USA,2022,Man-in-the-Middle,Education,83.61,30235,55.77,Medium,Medium,Medium,Medium,63.0,Medium
+2061,Germany,2023,SQL Injection,Retail,49.76,460558,55.65,Medium,Medium,Medium,Medium,70.0,Medium
+1708,UK,2018,Ransomware,Retail,28.98,981029,55.6,Medium,Medium,Medium,Medium,73.0,Medium
+1762,India,2017,Ransomware,Government,38.87,968822,55.46,Medium,Medium,Medium,Medium,70.0,Medium
+2835,Germany,2021,Malware,Government,88.01,334748,55.44,Medium,Medium,Medium,Medium,50.0,Low
+65,China,2024,Malware,Education,72.35,132726,55.44,Medium,Medium,Medium,Medium,97.0,High
+1214,Russia,2018,Ransomware,Education,22.77,828880,55.43,Medium,Medium,Medium,Medium,54.0,Low
+275,Japan,2017,Phishing,Healthcare,47.39,470895,55.33,Medium,Medium,Medium,Medium,94.0,High
+1176,Germany,2017,Phishing,Banking,69.85,253058,54.75,Medium,Medium,Medium,Medium,60.0,Medium
+1269,France,2023,SQL Injection,Banking,46.58,659062,54.74,Medium,Medium,Medium,Medium,86.0,High
+12,China,2016,SQL Injection,Healthcare,38.81,920768,54.54,Medium,Medium,Medium,Medium,93.0,High
+560,China,2023,Malware,Telecommunications,80.1,237658,54.41,Medium,Medium,Medium,Medium,94.0,High
+1903,Brazil,2017,Phishing,IT,26.62,955790,54.22,Medium,Medium,Medium,Medium,79.0,Medium
+86,France,2023,Malware,Government,55.18,274946,54.18,Medium,Medium,Medium,Medium,82.0,High
+2918,Germany,2019,DDoS,IT,71.08,445129,54.18,Medium,Medium,Medium,Medium,93.0,High
+2243,Brazil,2018,SQL Injection,Education,52.7,861075,54.14,Medium,Medium,Medium,Medium,61.0,Medium
+1528,France,2022,Ransomware,Healthcare,42.33,657939,53.97,Medium,Medium,Medium,Medium,63.0,Medium
+2049,India,2021,Phishing,Retail,38.5,517843,53.96,Medium,Medium,Medium,Medium,90.0,High
+845,Japan,2018,SQL Injection,IT,69.19,33209,53.93,Medium,Medium,Medium,Medium,74.0,Medium
+2914,Germany,2019,DDoS,Telecommunications,52.17,481252,53.86,Medium,Medium,Medium,Medium,84.0,High
+1313,Germany,2016,Phishing,Telecommunications,46.28,992092,53.75,Medium,Medium,Medium,Medium,95.0,High
+1326,India,2022,SQL Injection,Healthcare,91.91,180456,53.6,Medium,Medium,Medium,Medium,87.0,High
+1042,USA,2021,SQL Injection,Education,45.52,838652,53.49,Medium,Medium,Medium,Medium,77.0,Medium
+1740,USA,2023,Malware,Banking,66.06,189116,53.43,Medium,Medium,Medium,Medium,96.0,High
+1526,Germany,2022,SQL Injection,Telecommunications,29.02,859311,53.36,Medium,Medium,Medium,Medium,93.0,High
+247,France,2017,Ransomware,Telecommunications,66.36,180698,53.33,Medium,Medium,Medium,Medium,65.0,Medium
+931,UK,2019,Phishing,Banking,60.07,197590,53.19,Medium,Medium,Medium,Medium,94.0,High
+2712,Germany,2016,Man-in-the-Middle,Government,58.93,249279,53.06,Medium,Medium,Medium,Medium,94.0,High
+1157,India,2019,Ransomware,Telecommunications,90.48,46972,53.04,Medium,Medium,Medium,Medium,64.0,Medium
+456,Brazil,2024,DDoS,Telecommunications,36.69,738981,53.02,Medium,Medium,Medium,Medium,100.0,High
+1302,Germany,2017,SQL Injection,IT,33.79,772541,52.86,Medium,Medium,Medium,Medium,72.0,Medium
+2002,Russia,2023,Ransomware,Banking,54.09,514319,52.76,Medium,Medium,Medium,Medium,68.0,Medium
+176,Brazil,2019,SQL Injection,Banking,27.64,826256,52.51,Medium,Medium,Medium,Medium,96.0,High
+1358,Australia,2021,Malware,Telecommunications,51.66,247243,52.42,Medium,Medium,Medium,Medium,96.0,High
+1322,Russia,2024,Malware,Government,49.51,872411,52.33,Medium,Medium,Medium,Medium,58.0,Low
+662,Australia,2018,SQL Injection,Education,75.2,60868,52.21,Medium,Medium,Medium,Medium,88.0,High
+2664,Russia,2021,SQL Injection,Healthcare,48.71,861410,52.15,Medium,Medium,Medium,Medium,54.0,Low
+1083,Brazil,2019,Man-in-the-Middle,Banking,14.64,880671,52.08,Medium,Medium,Medium,Medium,56.0,Low
+158,USA,2016,Malware,Retail,32.89,894935,51.92,Medium,Medium,Medium,Medium,53.0,Low
+637,UK,2019,Ransomware,Retail,63.45,354024,51.52,Medium,Medium,Medium,Medium,84.0,High
+335,China,2022,Malware,Banking,21.87,741153,51.51,Medium,Medium,Medium,Medium,98.0,High
+1748,Japan,2017,Phishing,Telecommunications,89.85,44385,51.26,Medium,Medium,Medium,Medium,87.0,High
+914,Brazil,2018,Ransomware,Banking,30.61,910960,51.26,Medium,Medium,Medium,Medium,94.0,High
+1392,UK,2016,SQL Injection,Education,43.55,712306,51.21,Medium,Medium,Medium,Medium,64.0,Medium
+772,Brazil,2018,Malware,Education,33.12,724513,51.08,Medium,Medium,Medium,Medium,85.0,High
+2480,India,2022,Malware,Retail,13.88,813217,51.07,Medium,Medium,Medium,Medium,51.0,Low
+105,Brazil,2015,Malware,Retail,78.13,71743,50.94,Medium,Medium,Medium,Medium,91.0,High
+789,USA,2019,Ransomware,Healthcare,89.81,46960,50.76,Medium,Medium,Medium,Medium,68.0,Medium
+2118,Australia,2019,Man-in-the-Middle,Retail,60.04,366318,50.74,Medium,Medium,Medium,Medium,86.0,High
+17,Russia,2017,Man-in-the-Middle,Healthcare,13.04,850158,50.65,Medium,Medium,Medium,Medium,74.0,Medium
+1253,Japan,2021,SQL Injection,IT,51.24,452476,50.59,Medium,Medium,Medium,Medium,53.0,Low
+1556,France,2018,Malware,IT,59.56,450313,50.52,Medium,Medium,Medium,Medium,86.0,High
+388,UK,2021,SQL Injection,Healthcare,52.23,449333,50.44,Medium,Medium,Medium,Medium,92.0,High
+1572,Brazil,2023,DDoS,Government,42.75,746425,50.44,Medium,Medium,Medium,Medium,89.0,High
+1955,China,2021,Man-in-the-Middle,Banking,33.3,935265,50.28,Medium,Medium,Medium,Medium,86.0,High
+2749,France,2018,SQL Injection,IT,63.56,3324,49.94,Medium,Medium,Medium,Medium,97.0,High
+2001,France,2022,Malware,Retail,13.77,804221,49.91,Medium,Medium,Medium,Medium,88.0,High
+1537,UK,2024,Man-in-the-Middle,Banking,14.84,817793,49.74,Medium,Medium,Medium,Medium,93.0,High
+1126,Germany,2020,Ransomware,IT,54.65,107180,49.43,Medium,Medium,Medium,Medium,97.0,High
+2503,Germany,2023,Man-in-the-Middle,Banking,92.48,1326,49.34,Medium,Medium,Medium,Medium,95.0,High
+1648,Brazil,2019,SQL Injection,Healthcare,46.5,748146,49.32,Medium,Medium,Medium,Medium,78.0,Medium
+2990,Brazil,2021,Ransomware,Education,18.11,849791,49.28,Medium,Medium,Medium,Medium,89.0,High
+166,Russia,2018,DDoS,Healthcare,67.27,335628,49.27,Medium,Medium,Medium,Medium,80.0,High
+1595,Australia,2016,Malware,Government,22.48,686176,49.06,Medium,Medium,Medium,Medium,92.0,High
+653,Japan,2023,Ransomware,Healthcare,33.66,410385,48.87,Medium,Medium,Medium,Medium,94.0,High
+2365,UK,2022,Malware,Telecommunications,38.76,361529,48.84,Medium,Medium,Medium,Medium,98.0,High
+1441,India,2016,SQL Injection,IT,29.24,786464,48.78,Medium,Medium,Medium,Medium,82.0,High
+630,France,2020,DDoS,Government,44.16,840796,48.7,Medium,Medium,Medium,Medium,89.0,High
+260,Russia,2015,Malware,Healthcare,63.09,80855,48.7,Medium,Medium,Medium,Medium,52.0,Low
+140,UK,2017,Man-in-the-Middle,Government,48.9,177154,48.66,Medium,Medium,Medium,Medium,96.0,High
+902,Japan,2021,DDoS,Government,35.46,937562,48.65,Medium,Medium,Medium,Medium,94.0,High
+1264,UK,2023,DDoS,IT,52.75,638329,48.59,Medium,Medium,Medium,Medium,94.0,High
+1863,China,2018,SQL Injection,Healthcare,52.01,527443,48.5,Medium,Medium,Medium,Medium,96.0,High
+2392,France,2017,Malware,Banking,40.87,719537,48.42,Medium,Medium,Medium,Medium,81.0,High
+1244,India,2020,Ransomware,IT,70.91,403494,48.4,Medium,Medium,Medium,Medium,90.0,High
+744,Australia,2017,Ransomware,Education,66.56,95750,48.38,Medium,Medium,Medium,Medium,66.0,Medium
+97,Germany,2024,Phishing,Healthcare,84.53,189430,48.23,Medium,Medium,Medium,Medium,89.0,High
+2809,UK,2017,Phishing,IT,57.17,477292,47.91,Medium,Medium,Medium,Medium,94.0,High
+541,USA,2024,Ransomware,IT,16.61,912183,47.9,Medium,Medium,Medium,Medium,87.0,High
+2284,UK,2020,SQL Injection,IT,87.48,53147,47.84,Medium,Medium,Medium,Medium,94.0,High
+1574,Brazil,2021,Ransomware,Government,21.21,570810,47.74,Medium,Medium,Medium,Medium,63.0,Medium
+1504,India,2021,Malware,Telecommunications,82.66,586,47.74,Medium,Medium,Medium,Medium,67.0,Medium
+1766,Brazil,2018,Phishing,Education,57.59,257681,47.64,Medium,Medium,Medium,Medium,91.0,High
+2636,Brazil,2018,Ransomware,Healthcare,4.51,909979,47.62,Medium,Medium,Medium,Medium,94.0,High
+1923,Brazil,2016,Phishing,Education,9.23,774750,47.31,Medium,Medium,Medium,Medium,89.0,High
+765,UK,2016,Man-in-the-Middle,Telecommunications,73.63,15907,47.3,Medium,Medium,Medium,Medium,94.0,High
+1163,UK,2024,SQL Injection,Retail,48.33,422592,47.13,Medium,Medium,Medium,Medium,87.0,High
+721,China,2024,DDoS,Healthcare,7.31,972407,47.0,Medium,Medium,Medium,Medium,85.0,High
+2803,China,2016,Phishing,Government,59.95,417253,46.94,Medium,Medium,Medium,Medium,97.0,High
+131,France,2016,Phishing,Government,27.2,536925,46.94,Medium,Medium,Medium,Medium,91.0,High
+2702,France,2015,Phishing,Healthcare,41.92,383484,46.92,Medium,Medium,Medium,Medium,91.0,High
+2998,Brazil,2017,SQL Injection,IT,32.97,734737,46.87,Medium,Medium,Medium,Medium,89.0,High
+156,Germany,2024,Phishing,IT,3.93,845785,46.51,Medium,Medium,Medium,Medium,64.0,Medium
+257,Japan,2020,Malware,Banking,15.73,762662,46.31,Medium,Medium,Medium,Medium,76.0,Medium
+2952,Germany,2023,Malware,Government,69.39,358933,46.3,Medium,Medium,Medium,Medium,84.0,High
+551,USA,2022,Malware,IT,4.06,863756,46.29,Medium,Medium,Medium,Medium,88.0,High
+1958,UK,2020,Ransomware,Banking,53.03,528708,46.27,Medium,Medium,Medium,Medium,87.0,High
+282,Brazil,2016,Man-in-the-Middle,Retail,72.78,11339,46.18,Medium,Medium,Medium,Medium,90.0,High
+479,China,2023,Man-in-the-Middle,Telecommunications,28.82,446243,46.14,Medium,Medium,Medium,Medium,65.0,Medium
+2032,Russia,2018,DDoS,IT,37.84,839882,46.07,Medium,Medium,Medium,Medium,77.0,Medium
+2220,Germany,2017,Malware,Government,67.79,239402,45.81,Medium,Medium,Medium,Medium,88.0,High
+2704,Japan,2020,Phishing,Healthcare,73.13,39276,45.8,Medium,Medium,Medium,Medium,95.0,High
+548,India,2018,Malware,Healthcare,30.83,481452,45.7,Medium,Medium,Medium,Medium,64.0,Medium
+1812,France,2015,DDoS,Banking,85.36,50427,45.59,Medium,Medium,Medium,Medium,57.0,Low
+608,UK,2015,Phishing,Healthcare,81.75,98634,45.23,Medium,Medium,Medium,Medium,98.0,High
+52,Australia,2019,Malware,Government,21.72,984411,45.13,Medium,Medium,Medium,Medium,86.0,High
+2404,Germany,2015,Phishing,Telecommunications,47.04,124250,45.03,Medium,Medium,Medium,Medium,88.0,High
+2102,UK,2015,Ransomware,Education,44.39,483598,44.77,Medium,Medium,Medium,Medium,77.0,Medium
+190,Australia,2019,Man-in-the-Middle,Banking,47.67,112313,44.71,Medium,Medium,Medium,Medium,84.0,High
+1350,UK,2018,Ransomware,Healthcare,60.01,193378,44.7,Medium,Medium,Medium,Medium,90.0,High
+2453,France,2016,DDoS,Education,46.58,361163,44.69,Medium,Medium,Medium,Medium,70.0,Medium
+95,Australia,2023,Malware,Telecommunications,1.51,954902,44.69,Medium,Medium,Medium,Medium,87.0,High
+799,USA,2019,Man-in-the-Middle,Telecommunications,17.21,896828,44.69,Medium,Medium,Medium,Medium,79.0,Medium
+781,India,2023,SQL Injection,Banking,48.53,421083,44.68,Medium,Medium,Medium,Medium,75.0,Medium
+401,Brazil,2021,SQL Injection,Telecommunications,11.61,848702,44.61,Medium,Medium,Medium,Medium,72.0,Medium
+250,Japan,2020,Phishing,Education,54.47,345334,44.55,Medium,Medium,Medium,Medium,97.0,High
+2088,USA,2020,DDoS,Government,40.98,191369,44.29,Medium,Medium,Medium,Medium,74.0,Medium
+2900,Australia,2018,DDoS,Telecommunications,25.07,732072,44.23,Medium,Medium,Medium,Medium,94.0,High
+2964,Russia,2015,Ransomware,Retail,46.96,672033,44.21,Medium,Medium,Medium,Medium,79.0,Medium
+2847,Brazil,2023,Ransomware,Healthcare,30.45,480773,44.1,Medium,Medium,Medium,Medium,99.0,High
+46,France,2022,Malware,Healthcare,20.33,794906,44.02,Medium,Medium,Medium,Medium,90.0,High
+2095,France,2021,Malware,Banking,47.14,169113,43.93,Medium,Medium,Medium,Medium,96.0,High
+1915,France,2018,Man-in-the-Middle,Education,36.92,829140,43.9,Medium,Medium,Medium,Medium,59.0,Low
+1135,Brazil,2023,Ransomware,Telecommunications,32.18,812908,43.82,Medium,Medium,Medium,Medium,93.0,High
+1164,India,2015,Man-in-the-Middle,Healthcare,29.54,837320,43.79,Medium,Medium,Medium,Medium,85.0,High
+998,UK,2015,Ransomware,Government,52.78,281905,43.74,Medium,Medium,Medium,Medium,95.0,High
+1811,Japan,2020,SQL Injection,Retail,10.41,872095,43.6,Medium,Medium,Medium,Medium,89.0,High
+418,UK,2022,Phishing,Government,61.87,298941,43.52,Medium,Medium,Medium,Medium,81.0,High
+2980,China,2022,Malware,Education,35.05,596468,43.48,Medium,Medium,Medium,Medium,50.0,Low
+2021,Germany,2015,Ransomware,IT,6.74,742272,43.42,Medium,Medium,Medium,Medium,62.0,Medium
+2410,Germany,2021,Ransomware,Healthcare,16.64,912847,43.22,Medium,Medium,Medium,Medium,93.0,High
+1821,India,2018,Phishing,Retail,14.46,743107,43.14,Medium,Medium,Medium,Medium,82.0,High
+1159,Japan,2016,Phishing,Banking,82.93,36797,43.13,Medium,Medium,Medium,Medium,90.0,High
+1611,China,2018,Ransomware,Education,17.44,598614,43.07,Medium,Medium,Medium,Medium,71.0,Medium
+1212,India,2017,SQL Injection,Government,20.21,421023,42.74,Medium,Medium,Medium,Medium,92.0,High
+2769,Germany,2016,Man-in-the-Middle,IT,13.21,549414,42.54,Medium,Medium,Medium,Medium,75.0,Medium
+2681,USA,2020,Malware,Retail,59.15,179586,42.47,Medium,Medium,Medium,Medium,81.0,High
+1983,France,2018,Ransomware,Education,34.54,608196,42.47,Medium,Medium,Medium,Medium,52.0,Low
+2287,Japan,2023,Phishing,Government,3.54,809443,42.45,Medium,Medium,Medium,Medium,57.0,Low
+2366,Australia,2019,Man-in-the-Middle,Retail,15.21,677755,42.39,Medium,Medium,Medium,Medium,93.0,High
+1183,Germany,2018,Malware,IT,30.2,667023,42.34,Medium,Medium,Medium,Medium,52.0,Low
+2432,UK,2019,SQL Injection,Healthcare,65.47,263110,42.3,Medium,Medium,Medium,Medium,87.0,High
+693,Brazil,2022,Man-in-the-Middle,Banking,59.43,121504,42.25,Medium,Medium,Medium,Medium,85.0,High
+2128,USA,2015,DDoS,Government,41.75,327171,42.08,Medium,Medium,Medium,Medium,92.0,High
+1489,Russia,2023,Ransomware,Healthcare,15.08,677971,42.05,Medium,Medium,Medium,Medium,92.0,High
+2324,Australia,2017,Malware,Banking,25.76,801821,41.94,Medium,Medium,Medium,Medium,58.0,Low
+532,USA,2022,Phishing,IT,59.7,382379,41.88,Medium,Medium,Medium,Medium,65.0,Medium
+606,Brazil,2017,SQL Injection,Telecommunications,24.05,446378,41.81,Medium,Medium,Medium,Medium,92.0,High
+1551,Australia,2022,Phishing,Government,9.84,580402,41.78,Medium,Medium,Medium,Medium,92.0,High
+592,India,2024,DDoS,Retail,35.47,342575,41.63,Medium,Medium,Medium,Medium,94.0,High
+1010,Australia,2019,DDoS,IT,32.06,775033,41.51,Medium,Medium,Medium,Medium,83.0,High
+311,India,2022,Malware,Healthcare,38.89,400752,41.47,Medium,Medium,Medium,Medium,57.0,Low
+2836,China,2023,Phishing,Banking,55.94,383589,41.43,Medium,Medium,Medium,Medium,91.0,High
+2876,Japan,2023,Phishing,Retail,55.7,53447,41.4,Medium,Medium,Medium,Medium,69.0,Medium
+767,Brazil,2023,Malware,Government,19.18,993826,41.36,Medium,Medium,Medium,Medium,87.0,High
+1235,USA,2015,Man-in-the-Middle,Government,47.76,428556,40.91,Medium,Medium,Medium,Medium,86.0,High
+2341,China,2023,Malware,Education,37.07,417554,40.79,Medium,Medium,Medium,Medium,77.0,Medium
+1234,India,2018,Ransomware,Retail,56.06,382041,40.61,Medium,Medium,Medium,Medium,97.0,High
+1953,France,2023,Ransomware,Government,63.45,90678,40.56,Medium,Medium,Medium,Medium,93.0,High
+2167,Australia,2021,DDoS,Retail,20.39,342951,40.49,Medium,Medium,Medium,Medium,66.0,Medium
+1095,UK,2020,SQL Injection,Retail,56.3,142291,40.48,Medium,Medium,Medium,Medium,84.0,High
+847,Germany,2019,DDoS,IT,14.77,491791,40.48,Medium,Medium,Medium,Medium,87.0,High
+2053,Australia,2018,DDoS,Healthcare,10.77,910081,40.48,Medium,Medium,Medium,Medium,85.0,High
+2320,China,2024,SQL Injection,Education,18.45,947933,40.45,Medium,Medium,Medium,Medium,89.0,High
+925,China,2020,Malware,Healthcare,30.86,240532,40.43,Medium,Medium,Medium,Medium,80.0,High
+1033,Russia,2023,Man-in-the-Middle,IT,26.45,850714,40.42,Medium,Medium,Medium,Medium,74.0,Medium
+1330,Japan,2023,Phishing,Healthcare,48.25,3395,40.34,Medium,Medium,Medium,Medium,90.0,High
+1499,China,2023,SQL Injection,Education,4.18,715127,40.22,Medium,Medium,Medium,Medium,89.0,High
+1764,Australia,2019,DDoS,Education,54.63,22739,40.22,Medium,Medium,Medium,Medium,80.0,High
+2804,France,2021,Man-in-the-Middle,Government,44.03,60431,40.22,Medium,Medium,Medium,Medium,74.0,Medium
+287,Russia,2020,DDoS,Healthcare,0.82,683572,40.09,Medium,Medium,Medium,Medium,92.0,High
+2280,UK,2016,SQL Injection,Government,69.55,55635,40.06,Medium,Medium,Medium,Medium,81.0,High
+645,Japan,2020,Phishing,Education,49.17,218097,40.02,Medium,Medium,Medium,Medium,77.0,Medium
+2556,Russia,2016,Malware,Banking,3.6,661377,39.98,Medium,Medium,Medium,Medium,54.0,Low
+1862,Japan,2023,Man-in-the-Middle,IT,26.65,220769,39.67,Medium,Medium,Medium,Medium,81.0,High
+1323,Germany,2023,Man-in-the-Middle,Education,26.14,876348,39.65,Medium,Medium,Medium,Medium,50.0,Low
+1659,France,2019,Malware,Retail,21.92,603904,39.64,Medium,Medium,Medium,Medium,94.0,High
+1663,Germany,2022,Malware,Banking,59.7,258587,39.56,Medium,Medium,Medium,Medium,99.0,High
+1557,Australia,2016,Malware,Retail,45.71,461668,39.49,Medium,Medium,Medium,Medium,96.0,High
+2931,Russia,2017,Malware,Healthcare,42.4,71213,39.45,Medium,Medium,Medium,Medium,100.0,High
+954,India,2020,Phishing,Education,39.72,512850,39.42,Medium,Medium,Medium,Medium,89.0,High
+2127,Japan,2017,Man-in-the-Middle,Healthcare,16.71,393738,39.34,Medium,Medium,Medium,Medium,88.0,High
+867,India,2023,DDoS,Banking,23.83,557428,39.2,Medium,Medium,Medium,Medium,89.0,High
+380,Japan,2020,Ransomware,Banking,40.86,565080,39.06,Medium,Medium,Medium,Medium,81.0,High
+830,France,2021,Man-in-the-Middle,Healthcare,53.77,302180,39.01,Medium,Medium,Medium,Medium,94.0,High
+2171,Japan,2017,DDoS,Healthcare,54.41,344772,38.94,Medium,Medium,Medium,Medium,86.0,High
+1160,China,2021,SQL Injection,Healthcare,23.15,730762,38.78,Medium,Medium,Medium,Medium,52.0,Low
+1333,India,2020,SQL Injection,Telecommunications,17.47,436517,38.78,Medium,Medium,Medium,Medium,86.0,High
+2013,Japan,2018,SQL Injection,Government,20.36,876850,38.72,Medium,Medium,Medium,Medium,95.0,High
+2415,Russia,2015,DDoS,Retail,69.61,26321,38.65,Medium,Medium,Medium,Medium,86.0,High
+271,Russia,2018,Malware,Healthcare,40.66,90640,38.61,Medium,Medium,Medium,Medium,55.0,Low
+1022,France,2024,Phishing,Education,52.03,168684,38.58,Medium,Medium,Medium,Medium,73.0,Medium
+1808,India,2022,Malware,Telecommunications,19.56,772330,38.51,Medium,Medium,Medium,Medium,89.0,High
+2227,Australia,2022,Ransomware,Government,10.84,564944,38.49,Medium,Medium,Medium,Medium,96.0,High
+1603,India,2015,Man-in-the-Middle,Telecommunications,48.58,358210,38.1,Medium,Medium,Medium,Medium,93.0,High
+713,France,2017,Phishing,IT,55.9,309259,38.07,Medium,Medium,Medium,Medium,59.0,Low
+1819,India,2015,Man-in-the-Middle,Healthcare,37.15,357124,37.91,Medium,Medium,Medium,Medium,76.0,Medium
+1380,Brazil,2024,Ransomware,Healthcare,6.67,553944,37.74,Medium,Medium,Medium,Medium,82.0,High
+2326,Japan,2018,Man-in-the-Middle,Education,20.85,511823,37.73,Medium,Medium,Medium,Medium,81.0,High
+72,USA,2015,Ransomware,Telecommunications,20.73,297209,37.62,Medium,Medium,Medium,Medium,89.0,High
+991,China,2018,DDoS,IT,14.04,803086,37.51,Medium,Medium,Medium,Medium,91.0,High
+1922,Russia,2019,Man-in-the-Middle,Banking,26.02,565292,37.48,Medium,Medium,Medium,Medium,50.0,Low
+2515,USA,2019,SQL Injection,Telecommunications,57.4,51312,37.47,Medium,Medium,Medium,Medium,85.0,High
+1484,Australia,2018,SQL Injection,Banking,20.28,363414,37.44,Medium,Medium,Medium,Medium,90.0,High
+1293,Russia,2020,Phishing,Education,9.52,889970,37.02,Medium,Medium,Medium,Medium,87.0,High
+2143,Germany,2016,Man-in-the-Middle,Banking,3.57,882784,36.89,Medium,Medium,Medium,Medium,59.0,Low
+248,Germany,2017,Malware,Healthcare,8.53,676384,36.79,Medium,Medium,Medium,Medium,86.0,High
+1554,UK,2024,Malware,Healthcare,33.21,79940,36.78,Medium,Medium,Medium,Medium,83.0,High
+1432,Russia,2022,DDoS,Healthcare,58.93,104121,36.76,Medium,Medium,Medium,Medium,53.0,Low
+2158,France,2023,Ransomware,Education,54.26,21699,36.67,Medium,Medium,Medium,Medium,62.0,Medium
+48,India,2016,DDoS,Education,21.01,602692,36.65,Medium,Medium,Medium,Medium,79.0,Medium
+1814,Brazil,2022,Malware,Telecommunications,40.08,459643,36.61,Medium,Medium,Medium,Medium,83.0,High
+2419,Australia,2018,SQL Injection,Retail,51.46,287089,36.57,Medium,Medium,Medium,Medium,85.0,High
+2669,USA,2024,Phishing,Government,58.64,146937,36.51,Medium,Medium,Medium,Medium,87.0,High
+2511,France,2015,Man-in-the-Middle,Banking,27.2,559841,36.51,Medium,Medium,Medium,Medium,95.0,High
+963,Australia,2015,DDoS,Government,13.96,479025,36.36,Medium,Medium,Medium,Medium,62.0,Medium
+2238,China,2018,Man-in-the-Middle,Healthcare,11.74,430760,36.3,Medium,Medium,Medium,Medium,75.0,Medium
+442,UK,2023,Malware,Banking,55.34,259176,36.28,Medium,Medium,Medium,Medium,57.0,Low
+2665,Germany,2016,DDoS,Telecommunications,14.28,547178,36.06,Medium,Medium,Medium,Medium,97.0,High
+112,Russia,2018,Malware,Telecommunications,8.11,737958,35.92,Medium,Medium,Medium,Medium,97.0,High
+1642,Russia,2022,Man-in-the-Middle,IT,34.57,46493,35.9,Medium,Medium,Medium,Medium,58.0,Low
+2763,Australia,2021,SQL Injection,IT,4.52,971908,35.87,Medium,Medium,Medium,Medium,97.0,High
+1846,Australia,2022,Malware,Healthcare,47.92,25905,35.85,Medium,Medium,Medium,Medium,96.0,High
+55,India,2019,Man-in-the-Middle,Education,10.8,799474,35.78,Medium,Medium,Medium,Medium,83.0,High
+2359,Germany,2021,Phishing,Banking,48.0,170032,35.77,Medium,Medium,Medium,Medium,65.0,Medium
+1525,USA,2018,Ransomware,Healthcare,27.37,543437,35.55,Medium,Medium,Medium,Medium,95.0,High
+2628,UK,2023,SQL Injection,Education,19.17,697610,35.52,Medium,Medium,Medium,Medium,92.0,High
+212,India,2023,Phishing,Telecommunications,11.72,512291,35.4,Medium,Medium,Medium,Medium,91.0,High
+296,Germany,2016,Ransomware,Education,15.09,914593,35.27,Medium,Medium,Medium,Medium,68.0,Medium
+1268,France,2016,DDoS,Banking,25.81,132286,35.21,Medium,Medium,Medium,Medium,83.0,High
+1909,Japan,2020,Man-in-the-Middle,Education,29.58,141411,35.15,Medium,Medium,Medium,Medium,94.0,High
+1150,India,2016,Phishing,Banking,43.81,250482,34.98,Medium,Medium,Medium,Medium,83.0,High
+1541,India,2015,Man-in-the-Middle,Banking,38.1,187807,34.97,Medium,Medium,Medium,Medium,65.0,Medium
+1888,USA,2016,DDoS,Healthcare,27.08,551900,34.83,Medium,Medium,Medium,Medium,89.0,High
+1586,China,2021,Ransomware,Education,21.9,304804,34.82,Medium,Medium,Low,Medium,52.0,Low
+1148,France,2019,Malware,Education,31.35,312314,34.77,Medium,Medium,Medium,Medium,95.0,High
+2826,France,2016,DDoS,Healthcare,47.01,254371,34.75,Medium,Medium,Medium,Medium,82.0,High
+1801,India,2016,Man-in-the-Middle,IT,23.38,618125,34.69,Medium,Medium,Medium,Medium,95.0,High
+1337,UK,2016,Phishing,IT,1.28,604185,34.61,Medium,Medium,Medium,Medium,78.0,Medium
+1857,UK,2016,Ransomware,Retail,32.16,329026,34.57,Medium,Medium,Medium,Medium,89.0,High
+1472,Brazil,2015,Malware,Education,37.54,49473,34.42,Medium,Medium,Medium,Medium,51.0,Low
+2908,China,2015,SQL Injection,Education,40.68,90689,34.17,Medium,Medium,Medium,Medium,56.0,Low
+217,India,2016,Ransomware,Retail,29.48,403737,34.08,Medium,Medium,Medium,Medium,95.0,High
+2637,Australia,2019,Man-in-the-Middle,Banking,27.0,286038,34.03,Medium,Medium,Medium,Medium,94.0,High
+966,France,2019,Phishing,Telecommunications,28.88,96640,34.01,Medium,Medium,Medium,Medium,65.0,Medium
+1085,France,2022,Man-in-the-Middle,Retail,31.4,264380,33.91,Medium,Medium,Medium,Low,66.0,Medium
+2242,Australia,2022,Malware,Government,24.6,221315,33.67,Medium,Medium,Medium,Low,98.0,High
+1985,China,2017,Man-in-the-Middle,Retail,30.38,29840,33.59,Medium,Medium,Medium,Low,96.0,High
+1103,Brazil,2024,DDoS,IT,34.46,470727,33.58,Medium,Medium,Medium,Low,95.0,High
+2817,Japan,2018,Phishing,Education,3.6,598297,33.37,Medium,Medium,Medium,Low,63.0,Medium
+1706,Japan,2022,DDoS,Healthcare,9.5,387457,33.32,Medium,Medium,Medium,Low,94.0,High
+220,Brazil,2023,Man-in-the-Middle,Banking,20.15,376174,33.31,Medium,Medium,Low,Low,87.0,High
+2378,France,2022,Malware,Education,13.06,759625,33.22,Medium,Medium,Medium,Low,89.0,High
+1412,Germany,2017,Malware,Healthcare,6.58,592988,33.03,Medium,Medium,Low,Low,93.0,High
+1431,Brazil,2020,Phishing,Healthcare,18.79,267178,32.97,Low,Low,Low,Low,56.0,Low
+2907,Brazil,2019,Phishing,Retail,35.61,43771,32.73,Low,Low,Medium,Low,80.0,High
+2126,Germany,2021,SQL Injection,Education,17.55,519698,32.71,Low,Low,Medium,Low,64.0,Medium
+2782,Japan,2018,Phishing,Education,34.06,344674,32.65,Low,Low,Medium,Low,51.0,Low
+1690,Australia,2020,SQL Injection,IT,21.02,681476,32.63,Low,Low,Medium,Low,79.0,Medium
+832,Brazil,2022,SQL Injection,Retail,25.85,632061,32.45,Low,Low,Medium,Low,82.0,High
+1475,Russia,2024,Ransomware,Government,48.88,172789,32.41,Low,Low,Medium,Low,83.0,High
+281,Russia,2023,SQL Injection,Telecommunications,3.66,702942,32.37,Low,Low,Medium,Low,83.0,High
+19,UK,2019,Malware,Telecommunications,14.01,578443,32.14,Low,Low,Low,Low,93.0,High
+354,China,2024,DDoS,Healthcare,11.92,557016,32.12,Low,Low,Low,Low,87.0,High
+2117,India,2024,SQL Injection,Retail,48.83,96083,32.02,Low,Low,Medium,Low,85.0,High
+854,Japan,2022,DDoS,IT,20.16,174510,31.98,Low,Low,Low,Low,92.0,High
+2379,Brazil,2017,Phishing,Retail,3.18,520654,31.94,Low,Low,Medium,Low,89.0,High
+1208,UK,2023,Malware,IT,49.13,116201,31.94,Low,Low,Medium,Low,74.0,Medium
+1081,Australia,2019,DDoS,Banking,1.27,588345,31.9,Low,Low,Low,Low,65.0,Medium
+1511,Australia,2024,Ransomware,Healthcare,18.16,200307,31.48,Low,Low,Low,Low,93.0,High
+89,Brazil,2022,DDoS,Retail,15.16,157034,31.46,Low,Low,Low,Low,81.0,High
+1735,France,2024,SQL Injection,Retail,3.07,901137,31.36,Low,Low,Medium,Low,97.0,High
+1398,Germany,2019,Malware,Retail,6.47,360381,31.27,Low,Low,Medium,Low,85.0,High
+2924,Russia,2015,Man-in-the-Middle,Government,13.26,616547,31.24,Low,Low,Low,Low,91.0,High
+2374,Brazil,2019,DDoS,Telecommunications,36.98,198563,31.12,Low,Low,Low,Low,94.0,High
+807,Brazil,2018,Malware,Education,6.3,661644,31.06,Low,Low,Medium,Low,89.0,High
+2112,Japan,2020,DDoS,Education,39.33,267631,31.03,Low,Low,Low,Low,64.0,Medium
+185,Russia,2021,Malware,Education,0.54,869574,30.81,Low,Low,Medium,Low,80.0,High
+2387,UK,2018,Malware,Healthcare,27.61,375245,30.62,Low,Low,Low,Low,81.0,High
+990,UK,2022,Malware,Retail,39.55,337363,30.46,Low,Low,Medium,Low,90.0,High
+1352,Australia,2017,SQL Injection,Banking,7.21,526324,30.23,Low,Low,Low,Low,61.0,Medium
+821,Australia,2024,Phishing,Banking,14.97,214740,29.76,Low,Low,Low,Low,90.0,High
+300,China,2017,Malware,IT,18.17,346390,29.48,Low,Low,Low,Low,72.0,Medium
+1579,Australia,2023,Malware,Retail,5.24,696902,29.37,Low,Low,Low,Low,90.0,High
+2253,China,2020,DDoS,Healthcare,6.32,682445,29.2,Low,Low,Low,Low,61.0,Medium
+2766,France,2021,SQL Injection,Government,2.3,841324,28.62,Low,Low,Medium,Low,93.0,High
+2312,India,2016,SQL Injection,Banking,4.31,520308,28.6,Low,Low,Low,Low,92.0,High
+965,Russia,2021,DDoS,Education,18.47,394957,28.59,Low,Low,Low,Low,55.0,Low
+2666,Japan,2020,Ransomware,Banking,37.38,273660,28.57,Low,Low,Low,Low,94.0,High
+1849,USA,2015,Ransomware,Government,13.92,366147,28.5,Low,Low,Low,Low,69.0,Medium
+1088,USA,2022,SQL Injection,IT,8.5,523164,28.28,Low,Low,Low,Low,88.0,High
+2395,India,2023,Ransomware,Healthcare,18.26,312340,28.23,Low,Low,Low,Low,54.0,Low
+666,UK,2023,Malware,Banking,16.02,452477,27.98,Low,Low,Low,Low,90.0,High
+2599,Germany,2020,Man-in-the-Middle,Retail,46.07,32499,27.9,Low,Low,Low,Low,92.0,High
+2873,India,2018,SQL Injection,Education,12.44,599905,27.84,Low,Low,Low,Low,88.0,High
+2288,Japan,2024,Malware,Government,34.03,78149,27.7,Low,Low,Low,Low,98.0,High
+1725,China,2023,Phishing,Banking,33.27,133315,27.58,Low,Low,Low,Low,88.0,High
+1605,China,2019,Ransomware,Government,15.42,555153,27.43,Low,Low,Low,Low,88.0,High
+1596,China,2022,Malware,Retail,11.31,561807,27.24,Low,Low,Low,Low,73.0,Medium
+834,India,2022,DDoS,IT,23.91,169310,27.04,Low,Low,Low,Low,60.0,Medium
+756,Australia,2018,SQL Injection,IT,19.14,171977,26.95,Low,Low,Low,Low,92.0,High
+564,UK,2019,Phishing,IT,3.33,232665,26.7,Low,Low,Low,Low,92.0,High
+682,India,2024,Ransomware,IT,33.66,131900,26.62,Low,Low,Low,Low,91.0,High
+32,France,2020,Malware,Telecommunications,18.38,246900,26.05,Low,Low,Low,Low,90.0,High
+1246,UK,2016,Phishing,Education,9.84,628589,26.01,Low,Low,Low,Low,94.0,High
+145,China,2022,Ransomware,Telecommunications,16.16,236284,25.73,Low,Low,Low,Low,92.0,High
+61,India,2019,Phishing,Healthcare,35.6,40718,25.69,Low,Low,Low,Low,63.0,Medium
+1140,India,2024,Man-in-the-Middle,IT,1.75,617939,25.53,Low,Low,Low,Low,95.0,High
+408,UK,2021,Phishing,Healthcare,1.35,375292,25.27,Low,Low,Low,Low,92.0,High
+2014,Germany,2017,Phishing,Banking,10.56,556014,25.02,Low,Low,Low,Low,94.0,High
+668,France,2017,SQL Injection,Healthcare,27.42,94235,24.6,Low,Low,Low,Low,89.0,High
+933,Australia,2017,Phishing,Retail,14.88,69641,24.53,Low,Low,Low,Low,57.0,Low
+1336,Russia,2021,Man-in-the-Middle,Retail,39.73,80069,24.49,Low,Low,Low,Low,90.0,High
+2703,Germany,2017,DDoS,Telecommunications,40.05,27446,24.46,Low,Low,Low,Low,84.0,High
+514,Japan,2021,Phishing,Healthcare,9.42,573560,24.42,Low,Low,Low,Low,50.0,Low
+2406,Brazil,2022,Malware,IT,19.26,377446,24.29,Low,Low,Low,Low,88.0,High
+1920,India,2018,Phishing,IT,13.05,400964,23.84,Low,Low,Low,Low,60.0,Medium
+1199,Australia,2016,Malware,Telecommunications,44.93,23249,23.44,Low,Low,Low,Low,62.0,Medium
+831,USA,2016,Ransomware,Government,8.21,537592,23.29,Low,Low,Low,Low,92.0,High
+2648,Brazil,2017,Man-in-the-Middle,Government,14.54,491794,23.14,Low,Low,Low,Low,80.0,High
+1616,USA,2020,Ransomware,Banking,27.45,60428,23.04,Low,Low,Low,Low,89.0,High
+1406,India,2017,Malware,IT,22.04,210495,22.34,Low,Low,Low,Low,92.0,High
+1071,Russia,2021,Man-in-the-Middle,Banking,18.66,292992,22.29,Low,Low,Low,Low,50.0,Low
+240,Germany,2021,Ransomware,IT,5.54,254933,21.81,Low,Low,Low,Low,79.0,Medium
+1243,Australia,2021,Ransomware,Banking,24.33,77845,21.72,Low,Low,Low,Low,89.0,High
+2916,Russia,2018,Malware,Banking,23.14,159475,21.63,Low,Low,Low,Low,91.0,High
+777,USA,2019,SQL Injection,IT,17.81,378105,21.36,Low,Low,Low,Low,58.0,Low
+1422,China,2020,SQL Injection,Telecommunications,29.31,8884,21.31,Low,Low,Low,Low,96.0,High
+389,UK,2024,Man-in-the-Middle,Retail,7.16,368618,20.75,Low,Low,Low,Low,59.0,Low
+1133,Australia,2015,Man-in-the-Middle,Healthcare,1.62,336650,20.64,Low,Low,Low,Low,78.0,Medium
+2017,Russia,2019,Man-in-the-Middle,Education,6.79,386691,20.56,Low,Low,Low,Low,92.0,High
+1029,Brazil,2020,DDoS,Telecommunications,4.52,52302,19.94,Low,Low,Low,Low,59.0,Low
+1739,Germany,2021,Man-in-the-Middle,Banking,14.45,292854,19.9,Low,Low,Low,Low,80.0,High
+301,Brazil,2018,Phishing,IT,13.89,30925,19.82,Low,Low,Low,Low,57.0,Low
+1408,Japan,2019,Man-in-the-Middle,Education,1.72,407485,19.2,Low,Low,Low,Low,79.0,Medium
+1221,Russia,2016,Man-in-the-Middle,Telecommunications,10.2,446917,18.79,Low,Low,Low,Low,88.0,High
+2487,India,2019,Phishing,Education,6.29,344693,18.77,Low,Low,Low,Low,97.0,High
+1942,China,2022,DDoS,Education,18.49,20680,17.92,Low,Low,Low,Low,92.0,High
+507,Russia,2021,DDoS,Healthcare,11.38,334528,17.12,Low,Low,Low,Low,90.0,High
+1059,Germany,2024,SQL Injection,IT,1.01,470074,17.11,Low,Low,Low,Low,58.0,Low
+1964,Brazil,2022,Malware,IT,4.08,291590,16.9,Low,Low,Low,Low,76.0,Medium
+109,UK,2019,Malware,Education,4.42,393748,16.8,Low,Low,Low,Low,64.0,Medium
+2572,Japan,2022,Malware,IT,1.92,2653,16.6,Low,Low,Low,Low,96.0,High
+432,India,2023,SQL Injection,Retail,2.85,30883,16.52,Low,Low,Low,Low,97.0,High
+1695,Japan,2019,Malware,Telecommunications,5.88,235399,15.84,Low,Low,Low,Low,66.0,Medium
+1054,China,2021,Malware,Retail,20.52,33426,15.71,Low,Low,Low,Low,51.0,Low
+1277,Japan,2017,DDoS,Education,7.84,165722,15.28,Low,Low,Low,Low,94.0,High
+2973,India,2023,Man-in-the-Middle,Retail,12.96,254903,15.24,Low,Low,Low,Low,95.0,High
+994,Australia,2019,Phishing,Retail,9.12,212267,14.82,Low,Low,Low,Low,91.0,High
+2076,Brazil,2016,Man-in-the-Middle,Retail,14.04,117819,14.72,Low,Low,Low,Low,74.0,Medium
+2135,India,2020,Ransomware,Government,12.64,10206,14.4,Low,Low,Low,Low,70.0,Medium
+2851,China,2019,SQL Injection,Retail,26.97,19575,14.35,Low,Low,Low,Low,91.0,High
+1328,India,2022,Malware,Education,7.17,268414,14.14,Low,Low,Low,Low,94.0,High
+2663,China,2022,SQL Injection,Banking,1.16,297461,13.67,Low,Low,Low,Low,89.0,High
+1237,Australia,2022,Ransomware,Healthcare,17.58,18399,13.23,Low,Low,Low,Low,97.0,High
+77,France,2017,Phishing,Banking,17.88,16585,12.77,Low,Low,Low,Low,86.0,High
+2699,USA,2019,Malware,Education,1.05,93580,9.17,Low,Low,Low,Low,85.0,High
+896,Germany,2016,Phishing,IT,2.1,176471,8.85,Low,Low,Low,Low,80.0,High
+2362,India,2018,DDoS,Education,1.71,63389,8.31,Low,Low,Low,Low,92.0,High
